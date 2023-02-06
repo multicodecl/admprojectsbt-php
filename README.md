@@ -17,6 +17,8 @@ _Local: Instalar un servidor en su computadora, https://www.apachefriends.org/in
 ### Tecnologías
 * [CodeIgniter Framework](https://codeigniter.es/descargar.php): Version 3.1.13
 
+* [Bootstrap](https://getbootstrap.com/docs/5.3/getting-started/download/): Version 5.3.0-alpha1
+
 _ Lista de las tecnologias utilizadas_
 
 ### Instalación
@@ -24,12 +26,14 @@ _ Lista de las tecnologias utilizadas_
 > ?
 
 ### Colaboración
-*** Contacto, Email: contacto@multicode.cl
+* **Contacto, Email** : contacto@multicode.cl
+* **Contacto, Teléfono** : + 569 6426 3862 - [Grupos de WhatsApp](https://chat.whatsapp.com/EXveAd4eERKF1aY2zzUvLr)
+* **Discord, Chat** : https://discord.gg/WSMbwStaDz
 
 ## Autores
-* **Luis Córdova Cifuentes** - *Trabajo Inicial, Desarrollador* - [muticodecl](https://github.com/muticodecl)
+* **Luis Córdova Cifuentes** - *Trabajo Inicial, Desarrollador* - [multicodecl](https://github.com/multicodecl)
 
-_También puedes mirar la lista de todos los [contribuyentes](https://github.com/muticodecl/admprojectsbt-php/contributors) quíenes han participado en este proyecto._
+_También puedes mirar la lista de todos los [contribuyentes](https://github.com/multicodecl/admprojectsbt-php/contributors) quíenes han participado en este proyecto._
 
 ## Licencia
 _Este proyecto está bajo la Licencia (MIT License) - mira el archivo [LICENSE.md](LICENSE) para detalles_
